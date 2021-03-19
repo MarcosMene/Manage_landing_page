@@ -16,4 +16,4 @@ It was a very interesting project and I thank Frontend Mentor for giving us this
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/Screenshot.png)
