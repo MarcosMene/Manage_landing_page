@@ -11,8 +11,8 @@ const navSlide =() => {
     //nav mobile open close
     header.classList.toggle('menu-open');
 
-   // stop scroll
-   document.body.classList.toggle('nav_fixed');
+     // stop scroll
+     document.body.classList.toggle('nav_fixed');
         
         //Burger Animation
         burger.classList.toggle('toggle');
