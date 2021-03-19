@@ -171,6 +171,14 @@ p {
   transform: rotate(45deg) translate(-4px, -5px);
 }
 
+/* STOP SCROLL  */
+.nav_fixed {
+  position: fixed;
+  right: 0px;
+}
+
+/* STOP SCROLL  */
+
 
 
 .nav {
